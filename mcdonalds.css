@@ -1,0 +1,404 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-right: 0;
+    overflow-x: hidden;
+}
+
+.headerSection {
+    width: 1366px;
+    height: 108px;
+}
+
+.MClogo {
+    width: 260px;
+    height: 130px;
+    float: left;
+}
+
+.topMostLinks {
+    height: 70px;
+    width: 1106px;
+    float: left;
+    cursor: pointer;
+    color: #292929;
+}
+
+.TopLogo {
+    float: right;
+    margin-top: 20px;
+    margin-right: 60PX;
+}
+
+.language {
+    color: #292929;
+    float: left;
+    padding: 0;
+    margin-top: 20px;
+    font-family: "Times New Roman", Times, serif;
+    cursor: pointer;
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.linkSignup {
+    color: #292929;
+    float: left;
+    margin-left: -15px;
+    margin-top: 20px;
+    font-weight: 100;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.careers {
+    float: left;
+    color: #292929;
+    margin-top: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.search {
+    float: right;
+    padding: 0;
+    margin-top: 20px;
+    margin-right: 500px;
+    color: #393939;
+    cursor: pointer;
+}
+
+.ArrowIcon {
+    margin-top: 0px;
+    color: #292929;
+    width: 30px;
+    height: 15px;
+}
+
+.location {
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin-right: 280px;
+    margin-left: 0px;
+    margin-top: -33px;
+    padding: 0;
+    cursor: pointer;
+
+}
+
+.buttonOrderNowdiv {
+    width: 120px;
+    height: 38px;
+    float: right;
+    margin-right: -350px;
+    margin-top: -25px;
+}
+
+.buttonOrderNow {
+    width: 120px;
+    height: 38px;
+    background: #ffbc0d;
+    border-radius: 3px;
+    border: none;
+}
+
+.secondTopLinks {
+    height: 50px;
+    width: 1106px;
+    float: left;
+    margin-top: -12px;
+    background: white;
+}
+
+.ourMenu {
+    float: left;
+    margin-left: -40px;
+}
+
+.downLinks1 {
+    float: left;
+    margin-left: 45px;
+    margin-top: 17px;
+}
+
+.bodySec {
+    float: left;
+    width: 1360px;
+    height: 650px;
+    background: white;
+    border-top: 3px solid #dbd9d7;
+}
+
+.firstImageSection {
+    width: 1360px;
+    height: 550px;
+    float: left;
+}
+
+.firstImagediv {
+    width: 750px;
+    height: 340px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.image1 {
+    width: 100%;
+    height: 100%;
+}
+
+.text1 {
+    width: 400px;
+    height: 450px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 75px;
+}
+
+.QpcHeading {
+    font-size: 35px;
+    float: left;
+    margin-top: 15px;
+    font-weight: bolder;
+    line-height: 2.5pc;
+    font-family: sans-serif;
+    color: #2e2e2e;
+}
+
+.text1Sub {
+    float: left;
+    line-height: 1.4pc;
+    font-family: serif;
+}
+
+.text1Subofsub {
+    float: left;
+    font-size: 11px;
+    margin-top: -10px;
+    line-height: 0.9pc;
+}
+
+.first2Text {
+    width: 100%;
+    height: 40%;
+    float: left;
+    margin-top: -20px;
+}
+
+.newQpcbtn {
+    width: 160px;
+    height: 40px;
+    float: left;
+    color: #292929;
+    margin-top: 40px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.orderAhead {
+    width: 190px;
+    height: 43px;
+    float: left;
+    color: #292929;
+    margin-top: 40px;
+    margin-left: -135px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.EarnPoints {
+    width: 190px;
+    height: 43px;
+    float: left;
+    color: #292929;
+    margin-top: 40px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.text3Subofsub {
+    float: left;
+    font-size: 11px;
+    margin-top: -px;
+    line-height: 0.9pc;
+}
+
+.text3Sub {
+    float: left;
+    margin-top: 0;
+    line-height: 1.4pc;
+    font-family: serif;
+}
+
+.FreeFries {
+    width: 200px;
+    height: 45px;
+    float: left;
+    color: #292929;
+    margin-top: 35px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.voteNow {
+    width: 180px;
+    height: 45px;
+    float: left;
+    color: #292929;
+    margin-top: 0px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.AppDeals {
+    width: 180px;
+    height: 45px;
+    float: left;
+    color: #292929;
+    margin-top: 30px;
+    border: none;
+    background: #ffbc0d;
+    border-radius: 5px;
+}
+
+.footerSection {
+    width: 1360px;
+    height: 700px;
+    float: left;
+    background: white;
+}
+
+.AboutUs {
+    height: 350px;
+    width: 310px;
+    float: left;
+    margin-left: 110px;
+    background: white;
+}
+.HeadingFooter{
+    float: left;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 2pc;
+    margin-left:0px;
+}
+.subLinks{
+    float: left;
+    cursor: pointer;
+    margin-top: -1px;
+    padding-top: 12px;
+    margin-left: 0px;
+}
+.BigsubLinks{
+    float: left;
+    line-height: 1.35pc;
+    cursor: pointer;
+    margin-top: -1px;
+    padding-top: 12px;
+    margin-left: 0px;
+}
+.Services {
+    height: 350px;
+    width: 310px;
+    float: left;
+    background: white;
+}
+
+.Community {
+    height: 350px;
+    width: 310px;
+    float: left;
+    background: white;
+}
+
+.ContactUs {
+    height: 350px;
+    width: 310px;
+    float: left;
+    background: white;
+}
+.logos{
+    float: left;
+    width: 1250px;
+    height: 75px;
+    margin-top: 25px;
+    margin-left: 110px;
+    background: white;
+}
+.facebooklogo{
+    margin-top: 15px;
+}
+.Otherlogo{
+    margin-left: 15px;
+}
+.logoApple{
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.logoPlayStore{
+    float: right;
+    margin-top: 15px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.lineDiv{
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+    background: white;
+    width: 1180px;
+    height: 20px;
+}
+.LineTag{
+    width: 1170px;
+}
+.bottomLink1{
+    width: 650px;
+    height: 70px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 110px;
+    background: white;
+}
+.bottom1link1Spacing{
+    float: left;
+    margin-left: 0px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.bottomlink1Spacing{
+    float: left;
+    margin-top: 18px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+.copyRight{
+    float: right;
+    width: 310px;
+    height: 44px;
+    background: white;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+.logoBottom{
+    height: 25px;
+}
+.copyRightText{
+    float: right;
+    margin-top: 5px;
+    margin-right: 0px;
+}
+/* .haaaa{
+    background-image: url('./images/visionBoard.png');
+    height:100px;
+    width: 100%;
+} */
